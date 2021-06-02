@@ -1,6 +1,6 @@
-# HTTP 5202 PHP Project: onRoute
+# OnRoute Trip Planner
 
-## By: The < WebDevs >
+## By: The < WebDevs > - Nai Hsien Chen, Will Midgette, Alexis Arevalo, Daniel Guinto, Mohamed Sakr 
 
 ---
 
